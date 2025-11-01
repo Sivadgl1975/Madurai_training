@@ -3,3 +3,8 @@
 
 # Agents Comparasions platforms
 <img width="1956" height="700" alt="image" src="https://github.com/user-attachments/assets/dc477e06-3757-46ec-b55e-433cce9c1ef4" />
+
+# workflow Comparasions
+<img width="1792" height="1238" alt="image" src="https://github.com/user-attachments/assets/e5cb8c78-c32d-477a-9ea6-d47922ef539a" />
+
+
